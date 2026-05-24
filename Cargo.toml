@@ -1,0 +1,13 @@
+[package]
+name = "with_wind"
+version = "0.1.0"
+edition = "2021"
+description = "Composable runtime, logging, scheduling, and storage foundations for vibe-coding Rust projects."
+license = "MIT"
+repository = "https://github.com/0barman/with_wind"
+readme = "README.md"
+keywords = ["vibe-coding", "runtime", "storage", "logging", "scheduler"]
+categories = ["asynchronous", "development-tools", "database"]
+
+[dependencies]
+vibe-ready = "0.2.0"
